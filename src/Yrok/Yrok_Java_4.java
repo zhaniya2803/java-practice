@@ -1,3 +1,5 @@
+package Yrok;
+
 import java.util.Scanner;
 
 public class Yrok_Java_4 {

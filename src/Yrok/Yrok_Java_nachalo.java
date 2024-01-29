@@ -1,3 +1,5 @@
+package Yrok;
+
 public class Yrok_Java_nachalo {
     public static void main(String[] args) {
 
